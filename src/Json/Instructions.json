@@ -1,0 +1,46 @@
+
+  
+{
+    "instructions" : [
+        {
+            "name": "Drag",
+            "commands": ["The Drag tool is an instrument that empowers you to move layers around, resize them, and even rotate them to achieve the desired arrangement.", "To use the drag tool, simply select the layer you wish to modify on the right, click and hold the left mouse button, and then move your cursor to reposition the layer." ,"Additionally, you can resize the layer by dragging the resize handles and rotate it by adjusting the rotation handles."]
+        },
+        {
+            "name": "Crop",
+            "commands": ["The Crop tool is a feature that allows you to selectively remove unwanted portions of an image or document to focus on specific areas of interest.", "To use the crop tool, click and drag to create a cropping box over the area you want to keep. Once the desired portion is selected, press the 'Click' button to finalize the crop."]
+        },
+        {
+            "name": "Circle",
+            "commands": ["The Circle tool is a feature that enables you to create circles of varying colors." ,"To utilize this tool, simply select the colors you want to use and once you've made your choice click 'Draw Circle'."]
+        },
+        {
+            "name": "Stamp",
+            "commands": ["The Stamp tool is a powerful feature that allows the duplication and application of one layer onto others within the canvas.", "To use the stamp tool, choose the source layer by clicking 'set Stamp' and then clicking on the desired layer on the Right Hand Side (this layer will turn blue).",  "Now select another layer, by clicking on the right hand side to use as base for the stamp.",  "Position the stamp layer where you want to apply the content, and click 'Stamp' to transfer the selected portion onto the target layers."]
+        },
+        {
+            "name": "Lasso",
+            "commands": ["The Lasso tool is an instrument designed for cutting out specific parts of a layer in your layer. With the lasso tool, you can create custom selections by drawing freehand around the areas you want to isolate.", "To utilize this tool, then click and drag to draw a selection outline around the desired portion of the layer." ,"Once the selection is made, you can cut or copy the chosen area, by selecting either 'Create New Layer' or 'Erase From Layer'."]
+        },
+        {
+            "name": "PaintBucket",
+            "commands": ["The Paint bucket tool is a convenient feature for quickly filling a selected area of a layer with a solid color." ,"To use the paint bucket tool, choose your desired color, and click within the layer."]
+        },
+        {
+            "name": "Mask",
+            "commands": ["The Mask tool is a feature that allows you to selectively control the transparency of specific areas within a layer. When using the mask tool, you can 'paint' over parts of the layer, designating them as transparent, revealing the layers beneath.", "To utilize this tool, select the desired stroke width and paint over the areas you want to make transparent, and the corresponding regions on the layer become see-through."]
+        },
+        {
+            "name": "Shape",
+            "commands": ["The Line tool is an instrument that allows you to draw straight lines in your layer, making drawing polygons such as triangles, rectangles easy.", "To use the line tool, select your desired color and stroke width and then click multiple points on the layer, this will draw a path.", "Once you've drawn your desired path click 'Close Path' and the shape will be drawn."]
+        },
+        {
+            "name": "Pencil",
+            "commands": ["The Brush tool is a drawing instrument that allows you to create lines and shapes. To use it, simply position your cursor where you want to start your drawing, press the left mouse button, and then drag the cursor in the desired direction. This action will produce a continuous path. "]
+        },
+        {
+            "name": "WorkSpace",
+            "commands": ["Click and Drag to change order of selected layers on the Right Hand Side","Press 'Merge Layers' to merge selected layers","Ctrl when resizing allows you to preserve aspect ratio when resizing.","Shift when resizing preserves vertical or horizontal width.","Download button only downloads the selected layers merged into one.","Press 'Delete' to delete selected layer","Right Click for Dropdown Menu","Ctrl + C = Copy", "Ctrl + V = Paste"]
+        }
+    ]
+}
